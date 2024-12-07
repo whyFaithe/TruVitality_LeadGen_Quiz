@@ -1,0 +1,20 @@
+{
+  "name": "Scrim-s0ql4m60cm",
+  "description": "https://scrimba.com/s0ql4m60cm/head",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "firebase": "11.0.2",
+    "framer-motion": "11.13.1",
+    "vite": "latest"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "*"
+  }
+}
