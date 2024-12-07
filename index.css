@@ -36,6 +36,7 @@
 /*---- Quiz ----*/
 .quiz-section {
   min-width: 320px;
+  min-height: 500px;
   max-width: 500px;
   position: relative;
   display: flex;
